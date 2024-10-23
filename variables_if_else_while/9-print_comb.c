@@ -1,25 +1,24 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 /**
- *main - test c
+ * main - test c
  *
- *Return: toujours (0)
+ *Return: toujours 0
  */
+
 int main(void)
 {
-	int ch;
+	int d;
 
-	for (ch = 0 ; ch < 10 ; ch++)
-	putchar(ch + '0');
-		if (ch < 10)
-
+	for (d = '0'; d <= '9'; d++)
 	{
+		putchar(d);
+		if (d != '9')
+		{
 			putchar(',');
 			putchar(' ');
+		}
 	}
 	putchar('\n');
 	return (0);
 }
-
 
