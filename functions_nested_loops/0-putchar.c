@@ -8,7 +8,7 @@ int main(void)
 {
 	int i;
 
-	char str[] = "putchar_";
+	char str[] =" _putchar";
 
 	for (i = 0; str[i] != '\0'; i++)
 
