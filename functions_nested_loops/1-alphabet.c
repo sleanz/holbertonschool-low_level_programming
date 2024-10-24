@@ -1,15 +1,15 @@
-#include <stdio.h>
+#include "main.h"
 /**
- *main - test c
+ *print_alphabet - imprime l'alphabeti
  *
  *Return: toujours (0)
  */
-int main(void)
+void print_alphabet(void)
 {
 	char ch;
 
 	for (ch = 'a' ; ch <= 'z' ; ch++)
-	putchar(ch);
-	putchar('\n');
-	return (0);
+	_putchar(ch);
+	_putchar('\n');
+	
 }
