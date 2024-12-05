@@ -1,1 +1,1 @@
-ici on travaille sur les double link functions
+ici on apprendra comment utiliser le language C 
