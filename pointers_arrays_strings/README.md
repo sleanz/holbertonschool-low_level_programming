@@ -1,0 +1,1 @@
+ici on trvail sur les pointeurs et arrayici on trvail sur les pointeurs et arrayici on trvail sur les pointeurs et arrayici on trvail sur les pointeurs et arrayici on trvail sur les pointeurs et arrayici on trvail sur les pointeurs et arrayici on trvail sur les pointeurs et array
