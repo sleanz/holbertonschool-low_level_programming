@@ -1,5 +1,9 @@
 #include "main.h"
-
+/**
+ * print_chessboard - Prints the chessboard pattern
+ * @a: A 2D array representing the chessboard
+ * This function prints each row of the chessboard
+ */
 void print_chessboard(char (*a)[8])
 {
 	int indx1, indx2;
